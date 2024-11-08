@@ -1,1 +1,1 @@
-# QuadTree
+# cpp-quad-tree-image-compressor
